@@ -70,6 +70,8 @@ This version is vulnerable to: - **CVE-2021-4034: PolicyKit Local
 Privilege Escalation** - Exploit: *"PolicyKit-1 0.105-31 - Privilege
 Escalation"* - Source: Exploit-DB ID **50689**
 
+link: https://www.exploit-db.com/exploits/50689
+
 ### Exploitation
 Follow all instructions provided in the exploit guide!
 
