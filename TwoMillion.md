@@ -1,4 +1,4 @@
-# Hack The Box — *2Million* Writeup
+# Hack The Box — *2Million* Solution
 
 > **Disclaimer**: This writeup is for educational purposes only. All actions were performed in a controlled CTF environment.
 
